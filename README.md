@@ -11,7 +11,7 @@
 - Removed duplicate entries
 - Final: 71 clean rows ready for analysis
 
-- **Skills Demonstrated:**
+**Skills Demonstrated:**
 - Data quality assessment
 - Power Query transformations
 - Null value handling
